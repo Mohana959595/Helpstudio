@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SourceControlConnection>
+  <Provider>GIT</Provider>
+  <RemoteMoniker>../$/</RemoteMoniker>
+  <ProviderProperties>
+    <Branch>main</Branch>
+    <ServerUrl>https://github.com/Mohana959595/Helpstudio</ServerUrl>
+    <RepositoryFolder>D:\hsdx\Test folder_GIT\Gittestfolder123</RepositoryFolder>
+    <RepositoryDirectoryInfo>D:\hsdx\Test folder_GIT\Gittestfolder123</RepositoryDirectoryInfo>
+    <AuthorEmail>mdass@contiem.com</AuthorEmail>
+    <AuthorName>Mohana Priya Dass</AuthorName>
+    <UserName></UserName>
+    <Password>fcgvxUyL26JNNOi/BFcb1cDHPrah4zhi0h0mboy3WeU=</Password>
+    <SupplyUserCredentials>false</SupplyUserCredentials>
+  </ProviderProperties>
+</SourceControlConnection>
